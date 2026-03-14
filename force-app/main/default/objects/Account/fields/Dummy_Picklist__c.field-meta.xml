@@ -4,6 +4,7 @@
     <label>Dummy Picklist</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
+    <trackHistory>true</trackHistory>
     <type>Picklist</type>
     <valueSet>
         <restricted>true</restricted>
@@ -18,6 +19,11 @@
                 <fullName>two</fullName>
                 <default>false</default>
                 <label>two</label>
+            </value>
+            <value>
+                <fullName>three</fullName>
+                <default>false</default>
+                <label>three</label>
             </value>
             <value>
                 <fullName>four</fullName>
