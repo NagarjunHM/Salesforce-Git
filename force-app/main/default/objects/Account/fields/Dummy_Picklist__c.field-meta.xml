@@ -36,9 +36,9 @@
                 <label>six</label>
             </value>
             <value>
-                <fullName>7</fullName>
+                <fullName>seven</fullName>
                 <default>false</default>
-                <label>7</label>
+                <label>seven</label>
             </value>
         </valueSetDefinition>
     </valueSet>
